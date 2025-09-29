@@ -4,7 +4,7 @@
 
 🎓 Finalist in **Computer Science and Communications** at [EsACT-IPB](https://www.ipb.pt).
 💻Focused on **Web & Mobile Development, Systems, and Networks**.
-🚀 Currently developing my ""final course project**:
+🚀 Currently developing my **final course project**:
 *Intelligent system for counting and managing visitors at public events.*
 
 ---
